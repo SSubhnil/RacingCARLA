@@ -1,4 +1,7 @@
+Notice: After the recent Carla update 0.9.10, there are errors in the build which is being resolved. The code will work for 0.9.9
+
 # CARLA-Racing
+
 A program for a self-driving car to learn to drive faster on a racetrack. The 3D environment is CARLA, an open source autonomous driving simulator. We use vehicle sensors like, for example, RGB camera, RADAR, LIDAR, IMU, etc. for accurate state estimation and, for the time being, Learning Model Predictive Controller (LMPC) that decides the control inputs and possible future states.
 
 See https://github.com/urosolia/RacingLMPC for LMPC implementation.
