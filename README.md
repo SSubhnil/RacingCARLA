@@ -25,4 +25,4 @@ Currently the simulation is coded on `Town07` map. By default the Unreal Editor 
 6. Minimum 8 GB DDR3 RAM
 
 ## Post-setup Instructions (CARLA from source):
-Currently the simulation is coded on Town07 map. By default the Unreal Editor loads Town03. Close the Unreal Editor, and exit the Epic Games Launcher. Go to [Carla-master folder] -> Unreal -> CarlaUE4 -> Config. Open DefaultEngine.ini with Notepad. Change Town03 to Town07 for all assignments. The Unreal Editor will now load the project with Town07.
+Currently the simulation is coded on `Town07` map. By default the Unreal Editor loads `Town03`. Close the Unreal Editor, and exit the Epic Games Launcher. Go to [Carla-master folder] -> Unreal -> CarlaUE4 -> Config. Open `DefaultEngine.ini` with Notepad. Change `Town03` to `Town07` for all assignments. The Unreal Editor will now load the project with `Town07`. This can also be done from within Unreal Editor by accessing Settings -> Maps and Modes.
