@@ -12,7 +12,7 @@ See https://github.com/carla-simulator/carla/releases for download.
 3. Run `commander.py` in Python 3.7 and observe the game window.
 
 ## Post-setup Instructions (CARLA Packaged):
-Currently the simulation is coded on `Town07` map. By default the Unreal Editor loads `Town03`. `Town07` is an additional map and is not included with the base package. The additional maps can be downloaded from https://github.com/carla-simulator/carla/releases. Extract the `.rar` or `.zip` in [root-CARLA] folder and overwrite on prompt. Before starting `CarlaUE4.exe`, go to [Carla-master folder] -> CarlaUE4 -> Config. Open `DefaultEngine.ini` with Notepad. Change `Town03` to `Town07` for all assignments. The Unreal Editor will now load the project with Town07.
+Currently the simulation is coded on `Town07` map. By default the Unreal Editor loads `Town03`. `Town07` is an additional map and is not included with the base package. The additional maps can be downloaded from https://github.com/carla-simulator/carla/releases. Extract the `.rar` or `.zip` in [root-CARLA folder] and overwrite on prompt. Before starting `CarlaUE4.exe`, go to [root-Carla folder] -> CarlaUE4 -> Config. Open `DefaultEngine.ini` with Notepad. Change `Town03` to `Town07` for all assignments. The Unreal Editor will now load the project with Town07.
 
 ## Requirements (CARLA from source):
 1. CARLA built from source (Wondows and/or Linux). See https://carla.readthedocs.io/en/latest/build_windows/ for installation instructions. It is highly advisable to strictly follow the instructions for successful installation. Note that You should have both Windows 10 SDK and Windows 8.1 SDK for VS 2017.
