@@ -1,4 +1,4 @@
-Notice: After the recent Carla update 0.9.10, there are errors in the build which is being resolved. The code will work for 0.9.9
+Notice: After the recent Carla update 0.9.10, the code only works for the packaged version. There are errors in the source build which are being resolved. The code will work for 0.9.9 (if built from source).
 
 # CARLA-Racing
 
