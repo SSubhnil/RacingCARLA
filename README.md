@@ -5,9 +5,10 @@ Notice: After the recent Carla update 0.9.10, there are errors in the build whic
 A program for a self-driving car to learn to drive faster on a racetrack. The 3D environment is CARLA, an open source autonomous driving simulator. We use vehicle sensors like, for example, RGB camera, RADAR, LIDAR, IMU, etc. for accurate state estimation and, for the time being, Learning Model Predictive Controller (LMPC) that decides the control inputs and possible future states.
 
 See https://github.com/urosolia/RacingLMPC for LMPC implementation.
+
 ## Requirements (CARLA Packaged):
 See https://github.com/carla-simulator/carla/releases for download.
-You will need Python 3.7 with OpenCV, NumPy, SciPy and CvxOpt. A dedicated GPU with at least 4 GB VRAM (especially for Machine Learning).
+You will need Python 3.7 with OpenCV, NumPy, SciPy and CvxOpt. A dedicated GPU with at least 4 GB VRAM (especially for Machine Learning). Minimum 8 GB DDR3 RAM.
 1. If you are running the packaged version, and not building from source, simply download and extract the repository in the `examples` folder in `PythonAPI`.
 2. Run `CarlaUE4.exe`. This will start the server in a game window.
 3. Run `commander.py` in Python 3.7 and observe the game window.
