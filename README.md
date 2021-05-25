@@ -1,4 +1,5 @@
 Notice #2: I am back currently working on this with Carla 0.9.11 (packaged version). I had taken a  long sabbatical to work on few other things. I will be updating the code, do a lot of code clean-up and will release a stable version soon. Thanks for "Starring" and "Forking".
+
 Notice #1: After the recent Carla update 0.9.10, the code only works for the packaged version. There are errors in the source build which are being resolved. The code will work for 0.9.9 (if built from source).
 
 # CARLA-Racing
